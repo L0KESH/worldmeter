@@ -7,4 +7,4 @@ to extract data in form of dataset
 
 open terminal in app directory and use command
 
-"scrapy countries -o 'filename'.<csv/xml/json>
+"scrapy crawl countries -o 'filename'.<csv/xml/json>
